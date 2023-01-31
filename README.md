@@ -1,4 +1,4 @@
 # CS201
-Algorithms course with C++
+Fundamental Structures of Computer Science I Course 
 
-Homework 3
+Homework 3 & 4
